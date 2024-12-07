@@ -1,0 +1,25 @@
+.a1 {
+    text-align: center;
+}
+
+.a2 {
+    background-color: orange;
+    color: white;
+}
+
+.a2:hover {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #333333!important;
+}
+
+.select {
+    text-align: left;
+    vertical-align: bottom;
+}
+
+.a3 {
+    width: 100%;
+}

@@ -1,0 +1,310 @@
+[27-Jul-2023 11:35:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:35:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:35:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:35:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:35:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:35:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:13 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:13 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:14 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:14 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:14 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:14 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:15 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:15 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:28 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:28 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:29 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:29 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:36:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:34 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:34 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:35 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:35 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:42 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:42 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:43 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:43 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:43 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:43 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:37:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:06 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:06 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:07 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:07 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:09 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:09 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:10 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:10 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:35 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:35 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:37 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:37 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[27-Jul-2023 11:38:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[28-Jul-2023 06:38:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:17 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:21 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:30 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:38:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:39:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:44:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:44:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:47:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:49:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:52:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:53:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 06:55:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:05:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:57 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:08:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:09:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:09:02 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:09:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:09:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:15:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 408
+[28-Jul-2023 07:15:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:15:10 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:15:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:15:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:15:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:15:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:17:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 408
+[28-Jul-2023 07:17:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:20:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 408
+[28-Jul-2023 07:34:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 408
+[28-Jul-2023 07:39:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:30 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:39:32 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:48:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:51:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:52:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:17 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 07:55:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:49 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:09:57 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:21:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 408
+[28-Jul-2023 10:21:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:21:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:21:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:22:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:22:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:22:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:25:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:25:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 10:26:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[28-Jul-2023 11:17:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home1/acmewebdesigning/public_html/minedevlopment/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 601
+[01-Aug-2023 12:41:37 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[01-Aug-2023 12:41:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[01-Aug-2023 12:41:43 UTC] PHP Warning:  require(/home1/acmewebdesigning/public_html/minedevlopment/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[01-Aug-2023 12:41:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/acmewebdesigning/public_html/minedevlopment/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/acmewebdesigning/public_html/minedevlopment/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/acmewebdesigning/public_html/minedevlopment/index.php on line 34
+[03-May-2024 03:56:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/WorkInProgressController.php on line 259
+[30-Jul-2024 16:57:11 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/DepartmentController.php on line 12
+[30-Jul-2024 16:57:46 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/DesignationController.php on line 15
+[30-Jul-2024 16:58:17 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/MineController.php on line 16
+[31-Jul-2024 04:23:28 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/UqcController.php on line 13
+[31-Jul-2024 04:24:04 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/UqcController.php on line 13
+[31-Jul-2024 04:37:03 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/UqcController.php on line 13
+[31-Jul-2024 04:38:28 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/UqcController.php on line 13
+[31-Jul-2024 04:39:22 UTC] PHP Fatal error:  Cannot use App\Http\Helpers\CommonFunction as CommonFunction because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/DumperMachineRegisterController.php on line 13
+[31-Jul-2024 04:40:19 UTC] PHP Fatal error:  Cannot use Spatie\Permission\Models\Permission as Permission because the name is already in use in /home1/acmewebdesigning/public_html/minedevlopment/app/Http/Controllers/admin/DieselStockController.php on line 14
